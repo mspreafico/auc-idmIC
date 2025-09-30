@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Rdata file
+.RData
+
+# Folder with files to be ignored
+/ignore/
